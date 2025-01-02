@@ -2,6 +2,8 @@
 
 QoCGM (Quantification of Continuous Glucose Monitoring) is a toolbox to analyse CGM glucose data. 
 
+[![DOI](https://zenodo.org/badge/849228670.svg)](https://doi.org/10.5281/zenodo.14586556)
+
 ## Citing
 
 If you are using QoCGM in your research, please cite it:  
