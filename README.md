@@ -41,7 +41,7 @@ Here is an example of how to use the `QoCGM` function:
 % - ploton: Set to 1 to enable plotting.
 
 % Example usage:
-metrics = QoCGM(cgmData, 5, 0.02, 6, 1, 1);
+metrics = QoCGM(cgmData, 5, 0.02, 6, 1, 1, 'interpolate')
 
 % This will process the 'cgmData' with an expected sampling frequency of 5 minutes,
 % allowing for a 2% variation in sampling intervals, defining morning as starting at 6 AM,
