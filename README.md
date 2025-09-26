@@ -8,7 +8,7 @@ QoCGM (Quantification of Continuous Glucose Monitoring) is a toolbox to analyse 
 
 If you are using QoCGM in your research, please cite it:  
 ```
-No citation available yet
+Cichosz S, Hangaard S, Kronborg T, Vestergaard P, Jensen MH. From data to insights: a tool for comprehensive Quantification of Continuous Glucose Monitoring (QoCGM). PeerJ. 2025 Jun 9;13:e19501. doi: 10.7717/peerj.19501. PMID: 40511383; PMCID: PMC12161138.
 ```
 
 Link to the paper --> [here](https://doi.org/)
