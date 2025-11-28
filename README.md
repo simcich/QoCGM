@@ -41,6 +41,7 @@ Here is an example of how to use the `QoCGM` function:
 % - morning_start_h: Hour marking the start of the morning period (e.g., 6 for 6 AM).
 % - convertToMgdL: Set to 1 to convert glucose values from mmol/L to mg/dL.
 % - ploton: Set to 1 to enable plotting.
+% - handleMissing     - 'interpolate' (default) or 'remove' to handle missing data.
 
 % Example usage:
 metrics = QoCGM(cgmData, 5, 0.02, 6, 1, 1, 'interpolate')
